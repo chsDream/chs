@@ -1,0 +1,2 @@
+<import src="./orientation.vue.wxml" />
+    <template is="e55bcfbc" data="{{ ...$root['0'], $root }}"/>

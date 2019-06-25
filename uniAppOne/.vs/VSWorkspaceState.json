@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\common",
+    "\\unpackage",
+    "\\unpackage\\dist",
+    "\\unpackage\\dist\\dev",
+    "\\unpackage\\dist\\dev\\.tmp",
+    "\\unpackage\\dist\\dev\\.tmp\\app-plus",
+    "\\unpackage\\dist\\dev\\.tmp\\app-plus\\pages",
+    "\\unpackage\\dist\\dev\\.tmp\\app-plus\\pages\\template",
+    "\\unpackage\\dist\\dev\\.tmp\\app-plus\\pages\\template\\nav-bar"
+  ],
+  "SelectedNode": "\\unpackage\\dist\\dev\\.tmp\\app-plus\\pages\\template\\nav-bar\\nav-bar.js",
+  "PreviewInSolutionExplorer": false
+}
